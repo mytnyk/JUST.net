@@ -11,10 +11,11 @@ This will repace the JUST and JUST.NETCore packages.</Description>
     <RepositoryUrl>https://github.com/WorkMaze/JUST.net</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <PackageReleaseNotes>Looping context for bulk functions.</PackageReleaseNotes>
+    <PackageReleaseNotes>Added a fix to work with external file assembly that is preloaded from stream.</PackageReleaseNotes>
     <Version>3.0.6</Version>
     <AssemblyVersion>3.0.6.0</AssemblyVersion>
     <FileVersion>3.0.6.0</FileVersion>
+    <PackageId>JUST.net.Horta</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
